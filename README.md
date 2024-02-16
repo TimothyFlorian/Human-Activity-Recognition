@@ -1,4 +1,4 @@
-# Human Activity Recognition using Machine Learning
+# Human Activity Recognition using Deep Learning
 
 This repository contains Python code for a deep learning model to recognize human activities using sensor data. The model combines LSTM and Convolutional layers to process sensor readings and classify activities such as walking, running, sitting, etc.
 
